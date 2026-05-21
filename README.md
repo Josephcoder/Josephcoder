@@ -80,7 +80,7 @@ Enterprise ticketing and workflow system with notifications, request tracking, a
 
 ## 📊 GitHub Activity
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Josephcoder)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Josephcoder&theme=react-dark)
 
 ---
 
