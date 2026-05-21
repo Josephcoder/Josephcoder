@@ -1,156 +1,113 @@
 # Joseph Shyirambere
 
-Senior Software Engineer | Backend Architect | Full-Stack Engineer
+**Senior Software Engineer | Backend Architect | System Design Engineer**
 
 Kigali, Rwanda  
+
 📧 shyirambere2016@gmail.com  
 🔗 LinkedIn: linkedin.com/in/shyirambere  
 
 ---
 
-## PROFESSIONAL SUMMARY
+## 🚀 GitHub Overview
 
-Senior Software Engineer with 7+ years of experience designing and delivering **large-scale, production-grade software systems**, including **national government platforms used across Rwanda**.
+![Profile Views](https://komarev.com/ghpvc/?username=Josephcoder&label=Profile%20views&color=0e75b6&style=flat)
 
-Specialized in:
-- Backend architecture and distributed systems
-- Scalable RESTful API design and microservices
-- High-performance database systems
-- Full-stack application development
-- System integration for enterprise and government platforms
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josephcoder&show_icons=true&theme=default)
 
-Proven experience working on **mission-critical systems handling nationwide data processing, education systems, and public service infrastructure**.
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephcoder&layout=compact)
 
 ---
 
-## CORE COMPETENCIES
+## 🧠 About Me
 
-- System Design & Architecture (Scalable, Distributed Systems)
-- Backend Development (Node.js, Laravel, Go, Python, Java)
-- RESTful API & Microservices Architecture
-- Database Design & Optimization (SQL & NoSQL)
-- Performance Optimization & System Reliability
-- Data Integrity & Secure System Design
-- Full-Stack Web Application Development
-- Government & Enterprise System Integration
-- CI/CD & Deployment Pipelines
+Senior Software Engineer with **7+ years of experience** building scalable, production-grade systems, including **national-level government platforms used across Rwanda**.
+
+I specialize in backend architecture, distributed systems, and full-stack development, with a strong focus on **performance, scalability, and system reliability**.
 
 ---
 
-## TECHNICAL SKILLS
+## ⚙️ Tech Stack
 
-**Programming Languages:**  
-JavaScript (TypeScript), Go, Python, PHP, Java  
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 
-**Backend Frameworks:**  
-Node.js, Laravel, REST APIs, Microservices, MVC Architecture  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-**Frontend:**  
-React.js  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
 
-**Databases:**  
-PostgreSQL, MySQL, MongoDB, Redis  
-
-**DevOps & Infrastructure:**  
-Nginx, Apache, Git, CI/CD pipelines, Load balancing  
-
----
-
-## PROFESSIONAL EXPERIENCE
-
-### Innovations for Poverty Action (IPA) — MINEDUC Rwanda  
-**Senior Software Engineer | Oct 2023 – Present**
-
-- Lead backend architecture for CAMIS national education platform
-- Design and implement scalable systems for nationwide academic workloads
-- Develop secure backend services ensuring auditability and data integrity
-- Integrate CAMIS with SDMS and external government systems
-- Collaborate with international research and education stakeholders
-
-**Key Technologies:** Node.js, PostgreSQL, REST APIs, System Integration
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white)
+![CI/CD](https://img.shields.io/badge/CI/CD-000000?style=flat&logo=githubactions&logoColor=white)
 
 ---
 
-### Rwanda Education Board (REB)  
-**Software Engineering Consultant | Mar 2022 – May 2023**
+## 🏗️ Featured Systems
 
-- Designed backend architecture for TMIS national teacher management system
-- Developed algorithms for teacher placement and transfer optimization
-- Supported large-scale education data processing systems
-- Contributed to system design for national deployment
+### 🏫 CAMIS — National Education Platform
+Scalable government system integrated with SDMS, handling nationwide academic data processing and reporting.
 
-**Key Technologies:** Backend Systems, Database Design, Algorithm Development
+### 👨‍🏫 TMIS — Teacher Management System
+National platform for teacher placement, transfer workflows, and administrative automation.
 
----
-
-### UR Binary Hub — Kigali  
-**Software Developer | Apr 2022 – May 2023**
-
-- Developed Rwanda FDA Customer Support System
-- Built REST APIs for case management and request tracking
-- Implemented SMS and email notification systems
-- Improved system performance and reliability under production load
-
-**Key Technologies:** Node.js, REST APIs, MongoDB, Notification Systems
+### 🏥 Rwanda FDA Customer System
+Enterprise ticketing and workflow system with notifications, request tracking, and service management.
 
 ---
 
-### Universal Bridge — Kigali  
-**Software Developer | Sep 2019 – Jan 2023**
+## 💼 Experience Snapshot
 
-- Developed production-grade full-stack web applications
-- Built scalable systems using React.js and Node.js
-- Contributed to backend architecture and system optimization
-- Improved application performance and maintainability
+**IPA (MINEDUC Rwanda)** — Senior Software Engineer  
+- Led backend architecture for national education systems  
+- Designed scalable and secure data processing systems  
 
-**Key Technologies:** React.js, Node.js, MySQL, System Optimization
+**REB (Rwanda Education Board)** — Software Engineer (Consultant)  
+- Built teacher management systems and placement algorithms  
 
----
-
-### Multi Design Group — Kigali  
-**Software Developer | Jun 2018 – Aug 2019**
-
-- Developed real estate and valuation management systems
-- Designed database structures and backend logic
-- Built frontend interfaces for business applications
-
-**Key Technologies:** PHP, MySQL, Full-Stack Development
+**Universal Bridge / UR Binary Hub**  
+- Full-stack systems, APIs, performance optimization  
 
 ---
 
-## KEY PROJECTS
+## 📊 GitHub Activity
 
-### CAMIS — National Education Platform
-Large-scale government education system integrated with SDMS, supporting nationwide academic data processing, reporting, and institutional workflows.
-
-### TMIS — Teacher Management Information System
-National system for teacher placement, transfer management, and administrative automation using optimized backend algorithms.
-
-### Rwanda FDA Customer Support System
-Enterprise ticketing system with workflow automation, notifications, and request lifecycle management.
+![GitHub Streak](https://streak-stats.demolab.com?user=Josephcoder)
 
 ---
 
-## EDUCATION
+## 🎯 Engineering Focus
 
-**Bachelor’s Degree in Computer Science**  
-University of Rwanda | 2016 – 2021  
-
----
-
-## LANGUAGES
-
-- Kinyarwanda — Native
-- English — Professional Working Proficiency
+- Scalable backend systems  
+- Distributed architecture  
+- Government & enterprise software  
+- High-performance APIs  
+- System reliability & security  
 
 ---
 
-## KEYWORDS (ATS OPTIMIZED)
+## 🌍 Languages
 
-Backend Engineer, Senior Software Engineer, System Design, Distributed Systems, Microservices, REST API, Cloud-Ready Systems, Database Optimization, Full Stack Developer, Government Systems, Enterprise Applications, Scalable Architecture, CI/CD, Performance Engineering
+- Kinyarwanda — Native  
+- English — Professional  
 
 ---
 
-## CAREER FOCUS
+## 🤝 Contact
 
-Building **reliable, scalable, and secure software systems** for enterprise and government use cases, with a strong focus on **system design, backend engineering, and real-world impact at scale**.
+📧 shyirambere2016@gmail.com  
+🔗 linkedin.com/in/shyirambere  
+
+---
+
+## ⚡ Engineering Mindset
+
+Building reliable systems that scale beyond organizations and support real-world national infrastructure.
