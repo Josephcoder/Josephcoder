@@ -13,9 +13,9 @@ Kigali, Rwanda
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Josephcoder&label=Profile%20views&color=0e75b6&style=flat)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josephcoder&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Josephcoder&show_icons=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephcoder&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Josephcoder&layout=compact&langs_count=8)
 
 ---
 
